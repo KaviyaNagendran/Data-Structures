@@ -13,3 +13,8 @@ int main() {
     }
     printf("%d",Arr[Num-1]);
 }
+
+/* 
+    Input : 5
+    Output : 43
+*/
