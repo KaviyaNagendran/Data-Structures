@@ -83,3 +83,45 @@ int main() {
             printf("%d ",Left[i][j]);
     
 }
+
+/*
+
+Input :
+
+3 3
+1 2 3 4 5 6 7 8 9
+1 2 3 4 5 6 7 8 9
+
+Output :
+
+Original Matrix
+
+1 2 3 
+4 5 6 
+7 8 9 
+
+Transpose Matrix
+
+1 4 7 
+2 5 8 
+3 6 9 
+
+Right Rotation Matrix
+
+3 6 9 
+2 5 8 
+1 4 7 
+
+Left Rotation Matrix
+
+7 4 1 
+8 5 2 
+9 6 3 
+
+Multiplication of Matrix
+
+66 78 90 
+78 93 108 
+90 108 126 
+
+*/
